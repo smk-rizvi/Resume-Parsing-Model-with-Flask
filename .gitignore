@@ -1,0 +1,15 @@
+Environment Files
+
+.env
+
+Data and Logs
+
+DATA/
+*.log
+
+Python Specifics
+
+pycache/
+.pytest_cache/
+venv/
+*.pyc
